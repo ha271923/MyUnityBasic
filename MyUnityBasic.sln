@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUnityBasic", "MyUnityBasic.csproj", "{33E13EC4-6561-E9FB-CDD4-31FF6E8D5592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUnityBasic.Editor", "MyUnityBasic.Editor.csproj", "{CEAA92CA-AD36-9C66-BB27-ACF918765872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E13EC4-6561-E9FB-CDD4-31FF6E8D5592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E13EC4-6561-E9FB-CDD4-31FF6E8D5592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E13EC4-6561-E9FB-CDD4-31FF6E8D5592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E13EC4-6561-E9FB-CDD4-31FF6E8D5592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAA92CA-AD36-9C66-BB27-ACF918765872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAA92CA-AD36-9C66-BB27-ACF918765872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAA92CA-AD36-9C66-BB27-ACF918765872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAA92CA-AD36-9C66-BB27-ACF918765872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
